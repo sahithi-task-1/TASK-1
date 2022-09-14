@@ -1,1 +1,1 @@
-this is an ex2 file
+this is an ex2 file  updated
